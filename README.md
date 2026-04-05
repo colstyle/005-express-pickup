@@ -1,5 +1,7 @@
 <div align="center">
 
+# 快递取件码
+
 > 快递短信多且杂，翻找短信费时间，容易忘取。手动输入取件码繁琐且易出错。
 
 ![100APP计划](https://img.shields.io/badge/100%20APP%20计划-005%20%2F%20100-ff6b6b?style=flat-square&logo=rocket)
@@ -70,7 +72,7 @@ npm run tauri:build    # 打包 → dist/windows/APP_SLUG.exe
 npm run android:sync   # 同步 Web 代码到 Android 项目
 npm run android:open   # 在 Android Studio 中打开
 
-# 快递取件码
+# 命令行构建 APK
 cd android && .\gradlew assembleDebug
 # APK → android/app/build/outputs/apk/debug/app-debug.apk
 ```
