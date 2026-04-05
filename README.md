@@ -1,16 +1,16 @@
 <div align="center">
 
-# APP_NAME
+# 快递取件码
 
-**APP_TAGLINE**
+**我给[全体取件人]做了一个[快递取件码管理器]**
 
-![100APP计划](https://img.shields.io/badge/100%20APP%20计划-APP_NUM%20%2F%20100-ff6b6b?style=flat-square&logo=rocket)
+![100APP计划](https://img.shields.io/badge/100%20APP%20计划-005%20%2F%20100-ff6b6b?style=flat-square&logo=rocket)
 ![作者](https://img.shields.io/badge/作者-小石谈什么记-blueviolet?style=flat-square)
 ![版本](https://img.shields.io/badge/版本-0.1.0-blue?style=flat-square)
 ![平台](https://img.shields.io/badge/平台-Web%20%7C%20Windows%20%7C%20Android-brightgreen?style=flat-square)
 ![技术栈](https://img.shields.io/badge/技术栈-Next.js%20%2B%20Tauri%202%20%2B%20Capacitor-blueviolet?style=flat-square)
 
-> 🚀 **100 APP 量产计划** 第 APP_NUM 个作品 · 我给[目标人群]做了一个[应用描述] · 作者：[小石谈什么记](#)
+> 🚀 **100 APP 量产计划** 第 005 个作品 · 我给[全体取件人]做了一个[快递取件码管理器] · 作者：[小石谈什么记](#)
 
 </div>
 
