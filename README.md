@@ -4,6 +4,8 @@
 
 **我给[全体取件人]做了一个[快递取件码管理器]**
 
+> 快递短信多且杂，翻找短信费时间，容易忘取。手动输入取件码繁琐且易出错。
+
 ![100APP计划](https://img.shields.io/badge/100%20APP%20计划-005%20%2F%20100-ff6b6b?style=flat-square&logo=rocket)
 ![作者](https://img.shields.io/badge/作者-小石谈什么记-blueviolet?style=flat-square)
 ![版本](https://img.shields.io/badge/版本-0.1.0-blue?style=flat-square)
