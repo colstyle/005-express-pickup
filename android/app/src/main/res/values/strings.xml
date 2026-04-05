@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">快递取件码</string>
+    <string name="title_activity_main">快递取件码</string>
+    <string name="package_name">com.aiprojects.expresspickup</string>
+    <string name="custom_url_scheme">com.aiprojects.expresspickup</string>
+</resources>
